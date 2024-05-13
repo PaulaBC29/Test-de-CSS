@@ -1,0 +1,42 @@
+#contenedor{
+    width: 100%;
+    max-width: 600px;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    border-radius: 1px;
+    border-top: dashed blue;
+    border-bottom: dashed green;
+    border-left: dotted orange;
+    border-right: dotted red;
+
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -ms-border-radius: 1px;
+    -o-border-radius: 1px;
+}
+
+.primero{
+    float: right;
+    width: 30%;
+    max-width: 300px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px red solid;
+}
+
+
+.segundo{
+    width: 30%;
+    max-width: 300px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-right: 10px;
+    border: 2px red solid;
+}
+
